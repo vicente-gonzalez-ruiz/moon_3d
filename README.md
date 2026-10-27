@@ -89,3 +89,4 @@ $$\text{Centered } I_1, I_2 \xrightarrow[\text{Mapping}]{\text{Log-Polar}} P_1(\
 $$(d_\rho, d_\theta) \longrightarrow \begin{cases} \Delta \theta = \frac{d_\theta}{N_\theta} \cdot 360^\circ \\ s = e^{d_\rho / N_\rho} \end{cases}$$
 
 Once $(\Delta x, \Delta y)$, $\Delta \theta$, and $s$ are determined, $I_2$ is transformed back onto the grid of $I_1$ to produce a perfectly aligned image pair ready for stereo viewing.# moon_3d
+# moon_3d
